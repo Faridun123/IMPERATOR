@@ -18,7 +18,7 @@ _____
 
 # __Rename_
 ### Inside module.js 
-![1](./img/img%201.jpg)
+![1](./img/img%202.jpg)
 ## When you want to use the module 
 ## import in the requred file whith different name 
 ![4](./img/img%204.jpg)
